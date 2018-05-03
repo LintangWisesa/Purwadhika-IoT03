@@ -23,3 +23,14 @@ Link: *[bit.ly/jc04fundamental](https://github.com/LintangWisesa/Purwadhika-01-J
 **Tambahan**
 - Workshop ESP8266 & Blynk 23/07/2017
 - Workshop ESP32 & Blynk 13/08/2017
+
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
