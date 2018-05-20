@@ -6,8 +6,6 @@
 
 **Agustus-November 2017**
 
-Link: *[bit.ly/jc04fundamental](https://github.com/LintangWisesa/Purwadhika-01-JS_Fundamental)*
-
 - Introduction to IoT
 - Introduction to Arduino
 - Arduino Serial Communication
